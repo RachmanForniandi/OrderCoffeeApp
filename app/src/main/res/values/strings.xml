@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OrderCoffeeApp</string>
+    <string name="activity_horizontal_margin">16dp</string>
+    <string name="activity_vertical_margin">16dp</string>
+</resources>
